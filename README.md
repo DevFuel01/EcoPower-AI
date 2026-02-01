@@ -34,3 +34,4 @@ EcoPower AI analyzes historical energy consumption data stored in MySQL and appl
 
 ## 👥 Team
 - Idris Ibrahim
+
